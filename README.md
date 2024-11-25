@@ -13,4 +13,5 @@ __
 
 Dawn of a New World
 
+<img src="./screenshot-device" width="200">
 ![Screenshot device](./screenshot-device)
